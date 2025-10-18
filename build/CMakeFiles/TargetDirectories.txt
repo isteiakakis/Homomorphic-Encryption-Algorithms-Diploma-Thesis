@@ -1,0 +1,3 @@
+/home/john/Documents/C++_workspace/HE_workspace/build/CMakeFiles/demo.dir
+/home/john/Documents/C++_workspace/HE_workspace/build/CMakeFiles/edit_cache.dir
+/home/john/Documents/C++_workspace/HE_workspace/build/CMakeFiles/rebuild_cache.dir
